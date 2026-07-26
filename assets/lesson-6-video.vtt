@@ -1,0 +1,64 @@
+WEBVTT
+
+00:00.080 --> 00:06.320
+Multiple alerts show account takeovers, rapid orders, and refund attempts using related infrastructure.
+
+00:06.640 --> 00:09.120
+The pattern suggests an active incident.
+
+00:09.440 --> 00:15.200
+The first priority is to recognize the scope quickly and declare the incident through the established escalation path.
+
+00:15.600 --> 00:19.120
+Contain the affected path without making uncontrolled changes.
+
+00:19.520 --> 00:26.400
+Pause risky transactions or fulfillment, disable exposed credentials, restrict compromised tools or destinations,
+
+00:26.680 --> 00:28.320
+and protect customer accounts.
+
+00:28.560 --> 00:33.120
+Use the narrowest control that reduces harm while preserving legitimate activity.
+
+00:33.440 --> 00:36.240
+Escalate to the teams named in the response plan.
+
+00:36.560 --> 00:42.640
+Fraud, security, payments, customer service, legal, and leadership may each have a role.
+
+00:43.040 --> 00:49.200
+Assign one incident lead, decision owners, a communication channel, and a regular update schedule.
+
+00:49.520 --> 00:54.080
+Preserve evidence before systems, records, or attacker behavior change.
+
+00:54.480 --> 01:03.840
+Capture alerts, logs, authentication events, transactions, account histories, support contacts, and the versions of rules or models in use.
+
+01:04.239 --> 01:09.200
+Record when evidence was collected, by whom, and any action that altered the environment.
+
+01:09.520 --> 01:12.880
+Assess impact using confirmed and possible categories.
+
+01:13.200 --> 01:21.200
+Identify affected customers, accounts, orders, funds, products, regions, systems, and time periods.
+
+01:21.520 --> 01:26.960
+Distinguish what the team knows from what it is still investigating, and update the scope as evidence changes.
+
+01:27.280 --> 01:30.000
+Begin recovery only when controls are ready.
+
+01:30.320 --> 01:37.680
+Reset credentials, protect customers, attempt payment recovery, test fixes, and restore services in stages.
+
+01:38.000 --> 01:43.120
+Monitor for attacker adaptation and for unintended harm caused by emergency controls.
+
+01:43.440 --> 01:49.520
+Throughout the incident, document decisions, owners, timestamps, evidence, and results.
+
+01:49.920 --> 01:57.280
+A disciplined record supports recovery, customer communication, dispute handling, and the lessons that strengthen the next response.

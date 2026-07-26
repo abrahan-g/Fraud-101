@@ -1,0 +1,73 @@
+WEBVTT
+
+00:00.120 --> 00:06.800
+An investigation often begins with one event: a high-value order, an account change, or a suspicious refund.
+
+00:07.120 --> 00:10.160
+The event is a starting point, not a conclusion.
+
+00:10.480 --> 00:14.000
+The analyst builds outward to understand what is connected and why.
+
+00:14.320 --> 00:16.480
+Begin with the account and identity.
+
+00:16.800 --> 00:23.840
+Review account age, credential changes, contact information, authentication results, and prior behavior.
+
+00:24.160 --> 00:29.600
+A new phone number alone does not prove fraud, but its timing may matter when combined with other changes.
+
+00:30.000 --> 00:33.280
+Next, examine the device and network context.
+
+00:33.600 --> 00:35.920
+Has the device appeared on other accounts?
+
+00:36.240 --> 00:37.920
+Is the location plausible?
+
+00:38.320 --> 00:41.680
+Does the session use automation or an anonymizing service?
+
+00:42.080 --> 00:49.760
+Shared infrastructure can expose coordination, but households, workplaces, and mobile networks can also create legitimate overlap.
+
+00:50.080 --> 00:52.960
+Then follow the payment and the destination of value.
+
+00:53.280 --> 00:58.560
+Compare payment instruments, billing details, shipping addresses, pickup locations,
+
+00:58.800 --> 01:01.440
+refund destinations, and beneficiaries.
+
+01:01.840 --> 01:09.280
+A repeated destination across different identities may be important, especially when transaction timing and product choices also align.
+
+01:09.600 --> 01:11.680
+Behavior provides another layer.
+
+01:12.000 --> 01:20.400
+Look at navigation, typing or automation patterns, transaction velocity, failed attempts, support contacts, and the order of actions.
+
+01:20.720 --> 01:24.640
+Similar sequences can be more informative than one matching data point.
+
+01:25.039 --> 01:26.720
+Now test the hypothesis.
+
+01:27.120 --> 01:31.200
+Ask what supports it, what contradicts it, and what remains unknown.
+
+01:31.520 --> 01:37.039
+Verify important links, consider legitimate explanations, and record confidence.
+
+01:37.360 --> 01:42.640
+One shared device, address, or payment attribute should not determine the outcome by itself.
+
+01:42.960 --> 01:48.720
+The completed map supports a proportionate decision: allow, verify, hold, or contain.
+
+01:49.039 --> 01:52.880
+Preserve the evidence and the reasoning so the decision can be reviewed later.

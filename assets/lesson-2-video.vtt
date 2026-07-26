@@ -1,0 +1,67 @@
+WEBVTT
+
+00:00.160 --> 00:04.240
+A coordinated fraud operation rarely begins with one obvious attack.
+
+00:04.640 --> 00:06.320
+It develops in stages.
+
+00:06.720 --> 00:12.000
+Each stage can create signals, but those signals may look harmless when teams review them separately.
+
+00:12.320 --> 00:14.160
+First comes reconnaissance.
+
+00:14.480 --> 00:21.760
+The group studies high-value products, promotion limits, delivery options, return policies, and support procedures.
+
+00:22.160 --> 00:28.800
+Repeated policy searches, scripted browsing, or clusters of sessions following the same path may reveal that research.
+
+00:29.120 --> 00:39.840
+Next, the group assembles resources: stolen credentials, synthetic identities, payment instruments, devices, proxies, phone numbers, and delivery addresses.
+
+00:40.160 --> 00:42.160
+One account may seem ordinary.
+
+00:42.480 --> 00:46.160
+Shared attributes across many accounts can reveal coordination.
+
+00:46.480 --> 00:49.360
+The operation then tests the merchant's controls.
+
+00:49.680 --> 00:53.280
+Small orders or low-risk account changes show what succeeds.
+
+00:53.560 --> 00:59.360
+When the group finds a working path, transaction value, velocity, or complexity increases.
+
+00:59.680 --> 01:05.760
+Declines followed by rapid changes in device, address, or payment method are especially useful signals.
+
+01:06.080 --> 01:08.960
+Successful activity must then be monetized.
+
+01:09.280 --> 01:13.920
+Goods may be resold, stored value transferred, or refunds redirected.
+
+01:14.240 --> 01:21.920
+Fraud teams should follow both the purchase and the destination of value, including beneficiaries that appear across otherwise unrelated cases.
+
+01:22.240 --> 01:22.960
+Finally,
+
+01:23.120 --> 01:25.760
+The group conceals its activity and adapts.
+
+01:26.080 --> 01:32.640
+It replaces blocked accounts, changes infrastructure, alters timing, or shifts products and payment methods.
+
+01:32.960 --> 01:37.759
+A rule that worked yesterday may push the operation into a different channel rather than stop it.
+
+01:38.080 --> 01:43.039
+The practical response is to connect signals across stages, systems, and time.
+
+01:43.360 --> 01:47.440
+Look beyond the isolated event to identify the operation behind it.
